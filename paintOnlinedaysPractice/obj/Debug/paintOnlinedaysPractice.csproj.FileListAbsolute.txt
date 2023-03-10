@@ -1,0 +1,13 @@
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\bin\Debug\paintOnlinedaysPractice.exe.config
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\bin\Debug\paintOnlinedaysPractice.exe
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\bin\Debug\paintOnlinedaysPractice.pdb
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\bin\Debug\Guna.UI2.dll
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.csproj.AssemblyReference.cache
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.Form1.resources
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.Properties.Resources.resources
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.csproj.GenerateResource.cache
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.csproj.CopyComplete
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.exe
+C:\Users\Nayab\source\repos\paintOnlinedaysPractice\paintOnlinedaysPractice\obj\Debug\paintOnlinedaysPractice.pdb
